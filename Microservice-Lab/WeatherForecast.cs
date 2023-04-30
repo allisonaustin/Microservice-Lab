@@ -1,4 +1,4 @@
-namespace MicroserviceLab
+namespace Microservice_Lab
 {
     public class WeatherForecast
     {

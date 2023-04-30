@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace MicroserviceLab.Controllers
+namespace Microservice_Lab.Controllers
 {
     [ApiController]
     [Route("[controller]")]
